@@ -20,5 +20,7 @@
     "url": "https://github.com/DONRUBAYET/TestCICD/issues"
   },
   "homepage": "https://github.com/DONRUBAYET/TestCICD#readme",
-  "devDependencies": {}
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
 }
